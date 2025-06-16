@@ -22,7 +22,7 @@ public:
                     break;
                 }
             }
-            if(s1[i]!=s2[i]){
+            if(s1[i]!=s2[i]){ 
                 s1[i]=s2[i];
                 cnt++;
             }
